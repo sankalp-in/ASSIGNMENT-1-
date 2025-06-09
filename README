@@ -1,0 +1,45 @@
+# Python Assignment Tasks - A1
+
+This repository contains two basic Python programs written as part of an assignment. These programs demonstrate simple input handling, arithmetic operations, and string concatenation.
+
+## Files Included
+
+1. **task1_a1.py**  
+   A Python script that:
+   - Takes two numbers as input.
+   - Performs addition, subtraction, multiplication, and division.
+   - Displays the results of each operation.
+
+   **Example Input:**
+    Enter the First Number: 5
+    Enter the Second Number: 10
+
+
+  **Example Output:**
+    The sum is: 15
+    The sum is: 5
+    The sum is: 50
+    The sum is: 0.5  
+
+
+2. **task2_a1.py**  
+    A Python script that:
+    - Takes two names as input.
+    - Concatenates them.
+    - Prints a welcome message using the combined name.
+
+
+    **Example Input:**
+      Enter the first name: Sankalp 
+      Enter the second name: Takawade
+    
+
+
+    **Example Output:**
+      Hello, Sankalp Takawade! Welcome to The python program
+
+
+
+
+
+Submitted by: Sankalp Takawade
